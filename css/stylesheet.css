@@ -1,0 +1,63 @@
+*{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+
+body{
+	background: #f1f2f6;
+}
+
+#Header a:hover{
+	color: #FFF;
+}
+
+#bg-img{
+	background: url('../image/bg.jpg');
+	background-size: 100%;
+	background-repeat:no-repeat;
+	min-height: 500px; 
+}
+
+
+#About{
+	margin-top:-200px; 
+}
+
+#About span{
+	padding: 10px 20px 10px 20px;
+}
+
+#About hr{
+	border-color: #eccc68;
+	margin-top: 6px;
+	border-width: 3px;
+}
+
+#Skills span{
+	background-color: #ff7f50 !important;
+	padding: 10px 20px 10px 20px;
+}
+
+#Skills hr{
+	border-color: #ff7f50;
+	margin-top: 6px;
+	border-width: 3px;
+}
+
+.progress-bar{
+	background-color: #ff7f50 !important;
+}
+
+
+#Portfolio span{
+	background-color:#7bed9f !important;
+	padding: 10px 20px 10px 20px;
+}
+
+#Portfolio hr{
+	border-color:#7bed9f;
+	margin-top: 6px;
+	border-width: 3px;
+}
+
+
